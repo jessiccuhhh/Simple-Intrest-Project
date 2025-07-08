@@ -1,0 +1,13 @@
+# Contributing Guidelines
+
+Thanks for your interest in contributing!
+
+## How to Contribute
+- Fork the repository
+- Create a new branch (`git checkout -b feature-branch`)
+- Make your changes
+- Submit a pull request
+
+## Code Style
+- Keep scripts clean and readable
+- Use comments to explain logic

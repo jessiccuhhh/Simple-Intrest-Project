@@ -1,0 +1,18 @@
+# Simple Interest Project
+
+
+This project calculates simple interest using a shell script.  
+It is a basic example to demonstrate GitHub workflows and collaboration using standard repository files.
+
+
+## How It Works
+The formula used is:
+
+
+
+Simple Interest = (Principal × Rate × Time) / 100
+
+Run the `simple-interest.sh` script and follow the prompts.
+
+
+
